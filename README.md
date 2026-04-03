@@ -1,1 +1,1 @@
-# Multi Spect AIAgents 
+# Multi Spect AIAgents for Finance Sector
